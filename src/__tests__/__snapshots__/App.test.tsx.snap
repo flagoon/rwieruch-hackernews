@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <input
+    type="text"
+    class="sc-gzVnrw gOphWH"
+    value=""
+  />
+  <div>
+    <div
+      data-url="https://www.google.pl"
+      class="sc-bwzfXH dwyklk"
+    >
+      <div
+        class="sc-bxivhb fQKdra"
+      >
+        Pawel Kochanek
+      </div>
+      <div
+        class="sc-ifAKCX dOKWGL"
+      >
+        O obrotach ciał niebieskich
+      </div>
+      <div
+        class="sc-EHOje edewEe"
+      >
+        https://www.google.pl
+      </div>
+      <div
+        class="sc-bZQynM jflpuz"
+      >
+        200
+      </div>
+      <button
+        type="button"
+        class="sc-bdVaJa fHjkcQ"
+      >
+        Dismiss
+      </button>
+    </div>
+    <div
+      data-url="https://www.wp.pl"
+      class="sc-bwzfXH dwyklk"
+    >
+      <div
+        class="sc-bxivhb fQKdra"
+      >
+        Zenek Wiaderko
+      </div>
+      <div
+        class="sc-ifAKCX dOKWGL"
+      >
+        Uprawa ogródka
+      </div>
+      <div
+        class="sc-EHOje edewEe"
+      >
+        https://www.wp.pl
+      </div>
+      <div
+        class="sc-bZQynM jflpuz"
+      >
+        200
+      </div>
+      <button
+        type="button"
+        class="sc-bdVaJa fHjkcQ"
+      >
+        Dismiss
+      </button>
+    </div>
+    <div
+      data-url="https://otodom.pl"
+      class="sc-bwzfXH dwyklk"
+    >
+      <div
+        class="sc-bxivhb fQKdra"
+      >
+        Katarzyna Kochanek Śruba
+      </div>
+      <div
+        class="sc-ifAKCX dOKWGL"
+      >
+        Domki, które lubię
+      </div>
+      <div
+        class="sc-EHOje edewEe"
+      >
+        https://otodom.pl
+      </div>
+      <div
+        class="sc-bZQynM jflpuz"
+      >
+        100
+      </div>
+      <button
+        type="button"
+        class="sc-bdVaJa fHjkcQ"
+      >
+        Dismiss
+      </button>
+    </div>
+    <div
+      data-url="https://otodom.pl"
+      class="sc-bwzfXH dwyklk"
+    >
+      <div
+        class="sc-bxivhb fQKdra"
+      >
+        Bożena Ogródek
+      </div>
+      <div
+        class="sc-ifAKCX dOKWGL"
+      >
+        Hello World
+      </div>
+      <div
+        class="sc-EHOje edewEe"
+      >
+        https://otodom.pl
+      </div>
+      <div
+        class="sc-bZQynM jflpuz"
+      >
+        100
+      </div>
+      <button
+        type="button"
+        class="sc-bdVaJa fHjkcQ"
+      >
+        Dismiss
+      </button>
+    </div>
+  </div>
+</div>
+`;
